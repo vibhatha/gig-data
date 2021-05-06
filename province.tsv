@@ -1,0 +1,10 @@
+province_id	name	country_id	fips	area	capital
+LK-1	Western	LK	CE36	3709	Colombo
+LK-2	Central	LK	CE29	5584	Kandy
+LK-3	Southern	LK	CE34	5559	Galle
+LK-4	Northern	LK	CE38	8882	Jaffna
+LK-5	Eastern	LK	CE37	9951	Trincomali
+LK-6	North Western	LK	CE32	7812	Puttalam
+LK-7	North Central	LK	CE30	10724	Anuradhapura
+LK-8	Uva	LK	CE35	8488	Badulla
+LK-9	Sabaragamuwa	LK	CE33	4902	Ratnapura

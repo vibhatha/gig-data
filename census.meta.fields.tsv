@@ -1,0 +1,199 @@
+table_num	field_num	field_name	norm_field_name
+0	0	Total Population	total_population
+1	0	Total Population	total_population
+1	1	Sinhalese	sinhalese
+1	2	Sri Lankan Tamil	sri_lankan_tamil
+1	3	Indian Tamil	indian_tamil
+1	4	Moor	moor
+1	5	Burgher	burgher
+1	6	Malay	malay
+1	7	Chetty	chetty
+1	8	Bharatha	bharatha
+1	9	Other	other
+2	0	Total Population	total_population
+2	1	Buddhist	buddhist
+2	2	Hindu	hindu
+2	3	Islam	islam
+2	4	Roman Catholic	roman_catholic
+2	5	Other Christian	other_christian
+2	6	Other	other
+3	0	Total Population	total_population
+3	1	Head	head
+3	2	Wife/Husband	wife_or_husband
+3	3	Son/daughter	son_or_daughter
+3	4	Son/Daughter-in-law	son_or_daughter_in_law
+3	5	Grandchild/Great grand child	grandchild_or_great_grand_child
+3	6	Parent of head or spouse	parent_of_head_or_spouse
+3	7	Other relative	other_relative
+3	8	Domestic employee	domestic_employee
+3	9	Boarder	boarder
+3	10	Non relative	non_relative
+3	11	Clergy	clergy
+3	12	Not stated	not_stated
+4	0	Total Population	total_population
+4	1	Male	male
+4	2	Female	female
+5	0	Total Population	total_population
+5	1	Never married	never_married
+5	2	Married ((Registered)	married_registered
+5	3	Married (Customary)	married_customary
+5	4	Widowed	widowed
+5	5	Divorced	divorced
+5	6	Legally separated	legally_separated
+5	7	Separated (not legally)	separated_not_legally
+5	8	Not Stated	not_stated
+6	0	Total Population	total_population
+6	1	Less than 10	less_than_10
+6	2	10 ~ 19	10_19
+6	3	20 ~ 29	20_29
+6	4	30 ~ 39	30_39
+6	5	40 ~ 49	40_49
+6	6	50 ~ 59	50_59
+6	7	60 ~ 69	60_69
+6	8	70 ~ 79	70_79
+6	9	80 ~ 89	80_89
+6	10	90 and above	90_and_above
+7	0	Total Living Quarters	total_living_quarters
+7	1	Housing Unit	housing_unit
+7	2	Collective Living Quarter	collective_living_quarter
+7	3	Non Housing Unit	non_housing_unit
+8	0	Total Housing units	total_housing_units
+8	1	Occupied	occupied
+8	2	Vacant	vacant
+9	0	Total Housing units	total_housing_units
+9	1	Permanent	permanent
+9	2	Semi-permanent	semi_permanent
+9	3	Improvised	improvised
+9	4	Unclassified	unclassified
+10	0	Total Housing units	total_housing_units
+10	1	Single house - Single floor	single_house_single_floor
+10	2	Single house - Double floor	single_house_double_floor
+10	3	Single house- More than 2 floors	single_house_more_than_2_floors
+10	4	Attached house/Annex	attached_house_or_annex
+10	5	Flat	flat
+10	6	Condominium	condominium
+10	7	Twin house	twin_house
+10	8	Row house / Line room	row_house_or_line_room
+10	9	Hut/Shanty	hut_or_shanty
+11	0	Total Housing units	total_housing_units
+11	1	Brick	brick
+11	2	Cement block/Stone	cement_block_or_stone
+11	3	Cabook	cabook
+11	4	Soil bricks	soil_bricks
+11	5	Mud	mud
+11	6	Cadjan/Palmyrah	cadjan_or_palmyrah
+11	7	Plank/Metal Sheet	plank_or_metal_sheet
+11	8	Other	other
+12	0	Total Housing units	total_housing_units
+12	1	Cement	cement
+12	2	Tile/Granite/Terrazo	tile_or_granite_or_terrazo
+12	3	Mud	mud
+12	4	Wood	wood
+12	5	Sand	sand
+12	6	Concrete	concrete
+12	7	Other	other
+13	0	Total Housing units	total_housing_units
+13	1	Tile	tile
+13	2	Asbestos	asbestos
+13	3	Concrete	concrete
+13	4	Zink Aluminium sheet	zink_aluminium_sheet
+13	5	Metal sheet	metal_sheet
+13	6	Cadjan/Palmyrah/Straw	cadjan_or_palmyrah_or_straw
+13	7	Other	other
+14	0	Total Housing units	total_housing_units
+14	1	1 Person	1_person
+14	2	2 Persons	2_persons
+14	3	3 Persons	3_persons
+14	4	4 Persons	4_persons
+14	5	5 Persons	5_persons
+14	6	6 Persons	6_persons
+14	7	7 Persons	7_persons
+14	8	8 Persons	8_persons
+14	9	9 Persons	9_persons
+14	10	10 or more	10_or_more
+15	0	Total Housing units	total_housing_units
+15	1	1 Household	1_household
+15	2	2 Households	2_households
+15	3	3 Households	3_households
+15	4	4 Households	4_households
+15	5	5 or more	5_or_more
+16	0	Total Housing units	total_housing_units
+16	1	1 Room	1_room
+16	2	2 Rooms	2_rooms
+16	3	3 Rooms	3_rooms
+16	4	4 Rooms	4_rooms
+16	5	5 Rooms	5_rooms
+16	6	6 Rooms	6_rooms
+16	7	7 Rooms	7_rooms
+16	8	8 Rooms	8_rooms
+16	9	9 Rooms	9_rooms
+16	10	10 and above	10_and_above
+17	0	Total Housing units	total_housing_units
+17	1	2011	2011
+17	2	2010	2010
+17	3	2009	2009
+17	4	2008	2008
+17	5	2007	2007
+17	6	2006	2006
+17	7	2005	2005
+17	8	2000-2004	2000_2004
+17	9	1995-1999	1995_1999
+17	10	1990-1994	1990_1994
+17	11	1980-1989	1980_1989
+17	12	Before 80	before_80
+18	0	Total Households	total_households
+18	1	Protected well within premises	protected_well_within_premises
+18	2	Protected well outside premises	protected_well_outside_premises
+18	3	Unprotected well	unprotected_well
+18	4	Tap within unit (main line)	tap_within_unit_main_line
+18	5	Tap within premises but outside unit (main line)	tap_within_premises_but_outside_unit_main_line
+18	6	Tap outside premises (main line)	tap_outside_premises_main_line
+18	7	Rural water projects	rural_water_projects
+18	8	Tube well	tube_well
+18	9	Bowser	bowser
+18	10	River/Tank/Stream	river_or_tank_or_stream
+18	11	Rain water	rain_water
+18	12	Bottled water	bottled_water
+18	13	Other	other
+19	0	Total Households	total_households
+19	1	Fire wood	fire_wood
+19	2	Kerosene	kerosene
+19	3	Gas	gas
+19	4	Electricity	electricity
+19	5	Saw dust/Paddy husk	saw_dust_or_paddy_husk
+19	6	Other	other
+20	0	Total Households	total_households
+20	1	Electricity-National Electricity Network	electricity_national_electricity_network
+20	2	Electricity-Rural Hydro Electricity Projects	electricity_rural_hydro_electricity_projects
+20	3	Kerosene	kerosene
+20	4	Solar power	solar_power
+20	5	Bio Gas	bio_gas
+20	6	Other	other
+21	0	Total Households	total_households
+21	1	Water seal and connected to a piped sewer system	water_seal_and_connected_to_a_piped_sewer_system
+21	2	Water seal and connected to a septic tank	water_seal_and_connected_to_a_septic_tank
+21	3	Pour flush toilet (Not water seal)	pour_flush_toilet_not_water_seal
+21	4	Direct pit	direct_pit
+21	5	Other	other
+21	6	Not using a toilet	not_using_a_toilet
+22	0	Radio	radio
+22	1	TV	tv
+22	2	Fixed TP	fixed_tp
+22	3	Mobile	mobile
+22	4	PC	pc
+22	5	Laptop	laptop
+22	6	Fax	fax
+23	0	Total Households	total_households
+23	1	Collected by local authorities	collected_by_local_authorities
+23	2	Occupants burn	occupants_burn
+23	3	Occupants bury	occupants_bury
+23	4	Occupants composting solid waste	occupants_composting_solid_waste
+23	5	Occupants dispose solid waste into Road/River/Canal/Sea/Creek/Forest etc	occupants_dispose_solid_waste_into_road_or_river_or_canal_or_sea_or_creek_or_forest_etc
+23	6	Other	other
+24	0	Total Households	total_households
+24	1	Owned by a household member	owned_by_a_household_member
+24	2	Rent/Lease-government owned	rent_or_lease_government_owned
+24	3	Rent/Lease-Privately owned	rent_or_lease_privately_owned
+24	4	Occupied free of rent	occupied_free_of_rent
+24	5	Encroached	encroached
+24	6	Other	other
