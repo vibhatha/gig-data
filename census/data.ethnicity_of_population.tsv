@@ -1,4 +1,4 @@
-region_id	total_population	sinhalese	sri_lankan_tamil	indian_tamil	moor	burgher	malay	chetty	bharatha	other
+entity_id	total_population	sinhalese	sri_lankan_tamil	indian_tamil	moor	burgher	malay	chetty	bharatha	other
 LK	20359054.0	15249936.0	2269129.0	839475.0	1892633.0	38292.0	44130.0	5589.0	1713.0	18157.0
 LK-1	5850745.0	4925402.0	339233.0	56614.0	460545.0	25277.0	27853.0	4806.0	1297.0	9718.0
 LK-11	2323964.0	1778826.0	234953.0	24260.0	249604.0	13305.0	14444.0	909.0	686.0	6977.0

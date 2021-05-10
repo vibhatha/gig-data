@@ -1,4 +1,4 @@
-region_id	total_population	head	wife_or_husband	son_or_daughter	son_or_daughter_in_law	grandchild_or_great_grand_child	parent_of_head_or_spouse	other_relative	domestic_employee	boarder	non_relative	clergy	not_stated
+entity_id	total_population	head	wife_or_husband	son_or_daughter	son_or_daughter_in_law	grandchild_or_great_grand_child	parent_of_head_or_spouse	other_relative	domestic_employee	boarder	non_relative	clergy	not_stated
 LK	20359439.0	5264792.0	3656898.0	7679004.0	630470.0	1102423.0	520726.0	807579.0	46969.0	65254.0	550945.0	34376.0	3.0
 LK-1	5851130.0	1482377.0	1045034.0	2065230.0	195075.0	320446.0	175638.0	296767.0	30997.0	34267.0	195850.0	9448.0	1.0
 LK-11	2324349.0	572552.0	401543.0	791592.0	72967.0	121778.0	68854.0	143988.0	21358.0	19361.0	106751.0	3604.0	1.0

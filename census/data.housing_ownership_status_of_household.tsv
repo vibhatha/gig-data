@@ -1,4 +1,4 @@
-region_id	total_households	owned_by_a_household_member	rent_or_lease_government_owned	rent_or_lease_privately_owned	occupied_free_of_rent	encroached	other
+entity_id	total_households	owned_by_a_household_member	rent_or_lease_government_owned	rent_or_lease_privately_owned	occupied_free_of_rent	encroached	other
 LK	5264282.0	4365190.0	116871.0	330410.0	328346.0	68650.0	54815.0
 LK-1	1482221.0	1169052.0	41780.0	186677.0	50683.0	17770.0	16259.0
 LK-11	572475.0	427264.0	24830.0	90417.0	17221.0	7478.0	5265.0

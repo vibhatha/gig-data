@@ -1,4 +1,4 @@
-region_id	total_households	protected_well_within_premises	protected_well_outside_premises	unprotected_well	tap_within_unit_main_line	tap_within_premises_but_outside_unit_main_line	tap_outside_premises_main_line	rural_water_projects	tube_well	bowser	river_or_tank_or_stream	rain_water	bottled_water	other
+entity_id	total_households	protected_well_within_premises	protected_well_outside_premises	unprotected_well	tap_within_unit_main_line	tap_within_premises_but_outside_unit_main_line	tap_outside_premises_main_line	rural_water_projects	tube_well	bowser	river_or_tank_or_stream	rain_water	bottled_water	other
 LK	5264282.0	1652972.0	772819.0	211556.0	1110050.0	363043.0	181235.0	482937.0	177432.0	18931.0	239952.0	4022.0	9984.0	39349.0
 LK-1	1482221.0	579651.0	96365.0	28587.0	550564.0	65757.0	49380.0	51494.0	44864.0	609.0	6767.0	333.0	1476.0	6374.0
 LK-11	572475.0	123735.0	11188.0	1951.0	360380.0	29938.0	26539.0	12728.0	2065.0	38.0	1560.0	112.0	828.0	1413.0

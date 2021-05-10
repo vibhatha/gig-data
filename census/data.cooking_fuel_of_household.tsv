@@ -1,4 +1,4 @@
-region_id	total_households	fire_wood	kerosene	gas	electricity	saw_dust_or_paddy_husk	other
+entity_id	total_households	fire_wood	kerosene	gas	electricity	saw_dust_or_paddy_husk	other
 LK	5264282.0	4124667.0	129896.0	975262.0	9770.0	7606.0	17081.0
 LK-1	1482221.0	778323.0	89929.0	598250.0	3405.0	1152.0	11162.0
 LK-11	572475.0	165027.0	54411.0	346340.0	1957.0	432.0	4308.0

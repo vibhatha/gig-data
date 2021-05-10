@@ -1,4 +1,4 @@
-region_id	total_population	buddhist	hindu	islam	roman_catholic	other_christian	other
+entity_id	total_population	buddhist	hindu	islam	roman_catholic	other_christian	other
 LK	20359054.0	14271956.0	2561148.0	1967503.0	1261140.0	290920.0	6387.0
 LK-1	5850745.0	4293801.0	278817.0	501369.0	651432.0	121983.0	3343.0
 LK-11	2323964.0	1632125.0	186303.0	274067.0	162260.0	66947.0	2262.0

@@ -1,4 +1,4 @@
-region_id	total_housing_units	brick	cement_block_or_stone	cabook	soil_bricks	mud	cadjan_or_palmyrah	plank_or_metal_sheet	other
+entity_id	total_housing_units	brick	cement_block_or_stone	cabook	soil_bricks	mud	cadjan_or_palmyrah	plank_or_metal_sheet	other
 LK	5207740.0	2764566.0	1761898.0	111130.0	147320.0	261260.0	46117.0	101935.0	13514.0
 LK-1	1463595.0	589620.0	695700.0	78312.0	24864.0	33606.0	1498.0	37044.0	2951.0
 LK-11	562550.0	240504.0	269310.0	28313.0	4002.0	2926.0	363.0	16229.0	903.0

@@ -1,4 +1,4 @@
-region_id	total_housing_units	permanent	semi_permanent	improvised	unclassified
+entity_id	total_housing_units	permanent	semi_permanent	improvised	unclassified
 LK	5207740.0	4238491.0	927408.0	40464.0	1377.0
 LK-1	1463595.0	1340266.0	118587.0	4326.0	416.0
 LK-11	562550.0	526635.0	34452.0	1227.0	236.0

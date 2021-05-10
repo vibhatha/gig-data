@@ -1,4 +1,4 @@
-region_id	total_households	water_seal_and_connected_to_a_piped_sewer_system	water_seal_and_connected_to_a_septic_tank	pour_flush_toilet_not_water_seal	direct_pit	other	not_using_a_toilet
+entity_id	total_households	water_seal_and_connected_to_a_piped_sewer_system	water_seal_and_connected_to_a_septic_tank	pour_flush_toilet_not_water_seal	direct_pit	other	not_using_a_toilet
 LK	5264282.0	4683248.0	240322.0	111732.0	136544.0	4154.0	88282.0
 LK-1	1482221.0	1311882.0	126649.0	21733.0	17892.0	2193.0	1872.0
 LK-11	572475.0	457919.0	95894.0	8172.0	8631.0	1534.0	325.0

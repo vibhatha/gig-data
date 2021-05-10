@@ -1,4 +1,4 @@
-region_id	total_housing_units	single_house_single_floor	single_house_double_floor	single_house_more_than_2_floors	attached_house_or_annex	flat	condominium	twin_house	row_house_or_line_room	hut_or_shanty
+entity_id	total_housing_units	single_house_single_floor	single_house_double_floor	single_house_more_than_2_floors	attached_house_or_annex	flat	condominium	twin_house	row_house_or_line_room	hut_or_shanty
 LK	5207740.0	4416584.0	376764.0	27654.0	51424.0	32127.0	4179.0	36512.0	185131.0	77365.0
 LK-1	1463595.0	1114704.0	210173.0	15240.0	32924.0	26985.0	4179.0	7839.0	41806.0	9745.0
 LK-11	562550.0	353461.0	124135.0	12236.0	20403.0	24718.0	4179.0	3192.0	15294.0	4932.0

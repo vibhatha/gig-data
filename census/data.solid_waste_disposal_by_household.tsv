@@ -1,4 +1,4 @@
-region_id	total_households	collected_by_local_authorities	occupants_burn	occupants_bury	occupants_composting_solid_waste	occupants_dispose_solid_waste_into_road_or_river_or_canal_or_sea_or_creek_or_forest_etc	other
+entity_id	total_households	collected_by_local_authorities	occupants_burn	occupants_bury	occupants_composting_solid_waste	occupants_dispose_solid_waste_into_road_or_river_or_canal_or_sea_or_creek_or_forest_etc	other
 LK	5264282.0	1077950.0	2486628.0	1228751.0	406606.0	46526.0	17821.0
 LK-1	1482221.0	618269.0	593413.0	202000.0	58266.0	5683.0	4590.0
 LK-11	572475.0	394117.0	112584.0	42997.0	18374.0	2218.0	2185.0
