@@ -1,4 +1,4 @@
-table_num	norm_title	unit_entity	title	unit
+table_num	table_id	unit_entity	title	unit
 0	total_population	population	Total Population	Persons
 1	ethnicity_of_population	population	Ethnicity of Population	Percent
 2	religious_affiliation_of_population	population	Religious Affiliation of Population	Percent

@@ -1,4 +1,4 @@
-table_num	field_num	field_name	norm_field_name
+table_num	field_num	field_name	field_id
 0	0	Total Population	total_population
 1	0	Total Population	total_population
 1	1	Sinhalese	sinhalese
