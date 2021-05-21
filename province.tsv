@@ -1,10 +1,10 @@
 id	name	country_id	province_id	area	population	province_capital	fips
-LK-1	Western	LK	LK-1	3709	5850745	Colombo	CE36
-LK-2	Central	LK	LK-2	5584	2571557	Kandy	CE29
-LK-3	Southern	LK	LK-3	5559	2477285	Galle	CE34
-LK-4	Northern	LK	LK-4	8882	1061315	Jaffna	CE38
-LK-5	Eastern	LK	LK-5	9951	1555510	Trincomali	CE37
-LK-6	North Western	LK	LK-6	7812	2380861	Puttalam	CE32
-LK-7	North Central	LK	LK-7	10724	1266663	Anuradhapura	CE30
-LK-8	Uva	LK	LK-8	8488	1266463	Badulla	CE35
-LK-9	Sabaragamuwa	LK	LK-9	4902	1928655	Ratnapura	CE33
+LK-1	Western	LK	LK-1	3709.0	5850745	Colombo	CE36
+LK-2	Central	LK	LK-2	5584.0	2571557	Kandy	CE29
+LK-3	Southern	LK	LK-3	5559.0	2477285	Galle	CE34
+LK-4	Northern	LK	LK-4	8882.0	1061315	Jaffna	CE38
+LK-5	Eastern	LK	LK-5	9951.0	1555510	Trincomali	CE37
+LK-6	North Western	LK	LK-6	7812.0	2380861	Puttalam	CE32
+LK-7	North Central	LK	LK-7	10724.0	1266663	Anuradhapura	CE30
+LK-8	Uva	LK	LK-8	8488.0	1266463	Badulla	CE35
+LK-9	Sabaragamuwa	LK	LK-9	4902.0	1928655	Ratnapura	CE33
