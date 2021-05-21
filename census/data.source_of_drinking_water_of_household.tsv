@@ -1,5 +1,4 @@
 entity_id	total_households	protected_well_within_premises	protected_well_outside_premises	unprotected_well	tap_within_unit_main_line	tap_within_premises_but_outside_unit_main_line	tap_outside_premises_main_line	rural_water_projects	tube_well	bowser	river_or_tank_or_stream	rain_water	bottled_water	other
-	141568.0	43302.0	16532.0	3694.0	46090.0	14184.0	5380.0	4684.0	5080.0	168.0	1380.0	106.0	80.0	888.0
 EC-01	572475.0	123735.0	11188.0	1951.0	360380.0	29938.0	26539.0	12728.0	2065.0	38.0	1560.0	112.0	828.0	1413.0
 EC-01A	27872.0	210.0	20.0	15.0	21750.0	2032.0	3593.0	0.0	143.0	1.0	1.0	1.0	11.0	95.0
 EC-01B	40373.0	167.0	47.0	13.0	30764.0	2853.0	6118.0	0.0	301.0	1.0	1.0	13.0	29.0	66.0

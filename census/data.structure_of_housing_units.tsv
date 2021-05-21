@@ -1,5 +1,4 @@
 entity_id	total_housing_units	single_house_single_floor	single_house_double_floor	single_house_more_than_2_floors	attached_house_or_annex	flat	condominium	twin_house	row_house_or_line_room	hut_or_shanty
-	140422.0	120054.0	11218.0	880.0	944.0	1262.0	0.0	720.0	1104.0	4240.0
 EC-01	562550.0	353461.0	124135.0	12236.0	20403.0	24718.0	4179.0	3192.0	15294.0	4932.0
 EC-01A	27098.0	12607.0	5514.0	972.0	1184.0	2035.0	382.0	252.0	3004.0	1148.0
 EC-01B	38733.0	14332.0	9236.0	2149.0	997.0	6923.0	559.0	106.0	3854.0	577.0

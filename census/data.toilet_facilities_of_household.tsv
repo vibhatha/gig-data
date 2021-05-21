@@ -1,5 +1,4 @@
 entity_id	total_households	water_seal_and_connected_to_a_piped_sewer_system	water_seal_and_connected_to_a_septic_tank	pour_flush_toilet_not_water_seal	direct_pit	other	not_using_a_toilet
-	141568.0	128286.0	3656.0	4032.0	3392.0	58.0	2144.0
 EC-01	572475.0	457919.0	95894.0	8172.0	8631.0	1534.0	325.0
 EC-01A	27872.0	12354.0	14714.0	235.0	431.0	101.0	37.0
 EC-01B	40373.0	9856.0	29339.0	546.0	233.0	376.0	23.0
