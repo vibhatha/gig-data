@@ -38,7 +38,7 @@ def process_file(file_name: str):
 def main():
     init()
     for file_name in os.listdir(DIR_GIG2):
-        if file_name.startswith('government-elections'):
+        if file_name.startswith('government-elections') or file_name.startswith('population-religion') or file_name.startswith('population-ethnicity'):
             process_file(file_name)
 
 
