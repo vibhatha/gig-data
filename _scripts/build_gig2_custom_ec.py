@@ -14,7 +14,7 @@ def init():
 
 
 def is_pd_id(x: str):
-    return x.startswith('EC-') and len(x) == 6
+    return x.startswith('EC-') or x == 'LK'
 
 
 def extract_lines(lines: list):
@@ -38,7 +38,11 @@ def process_file(file_name: str):
 def main():
     init()
     for file_name in os.listdir(DIR_GIG2):
-        if file_name.startswith('government-elections') or file_name.startswith('population-religion') or file_name.startswith('population-ethnicity'):
+        if (
+            file_name.startswith('government-elections')
+            or file_name.startswith('population-religion')
+            or file_name.startswith('population-ethnicity')
+        ):
             process_file(file_name)
 
 
