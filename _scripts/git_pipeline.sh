@@ -26,3 +26,5 @@ git add *
 git commit -m "Updated remainder"
 
 git push origin main
+
+echo "Done!"
