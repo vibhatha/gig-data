@@ -10,7 +10,16 @@ git commit -m "Updated gig2_custom_ec_only"
 git add _tmp
 git commit -m "Updated _tmp"
 
+git add geo\province
+git add geo\ed
+git add geo\district
+git add geo\pd
+git add geo\dsd
+git add geo\lg
+git add geo\moh
+git add geo\gnd
 git add geo
+
 git commit -m "Updated geo"
 
 git add *
