@@ -25,6 +25,6 @@ git commit -m "Updated geo"
 git add *
 git commit -m "Updated remainder"
 
-git push origin main
+git push origin master
 
 echo "Done!"
